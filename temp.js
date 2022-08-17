@@ -12,5 +12,5 @@
 
 (function() {
     'use strict';
-    console.log('Hello,new world');
+    console.log('Hello,my new world');
 })();
